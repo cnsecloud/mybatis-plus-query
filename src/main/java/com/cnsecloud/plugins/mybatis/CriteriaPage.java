@@ -1,11 +1,11 @@
-package com.zdya.plugins.mybatis;
+package com.cnsecloud.plugins.mybatis;
 
 import com.baomidou.mybatisplus.core.metadata.OrderItem;
 import com.baomidou.mybatisplus.core.toolkit.LambdaUtils;
 import com.baomidou.mybatisplus.core.toolkit.support.ColumnCache;
 import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
-import com.zdya.plugins.mybatis.annotation.QueryEntity;
-import com.zdya.plugins.mybatis.util.Utils;
+import com.cnsecloud.plugins.mybatis.annotation.QueryEntity;
+import com.cnsecloud.plugins.mybatis.util.Utils;
 
 import java.util.ArrayList;
 import java.util.List;

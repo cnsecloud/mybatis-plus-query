@@ -1,6 +1,6 @@
-package com.zdya.plugins.mybatis.annotation;
+package com.cnsecloud.plugins.mybatis.annotation;
 
-import com.zdya.plugins.mybatis.QueryType;
+import com.cnsecloud.plugins.mybatis.QueryType;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

@@ -1,4 +1,4 @@
-package com.zdya.plugins.mybatis.annotation;
+package com.cnsecloud.plugins.mybatis.annotation;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

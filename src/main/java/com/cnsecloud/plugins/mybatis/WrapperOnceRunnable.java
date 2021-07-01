@@ -1,4 +1,4 @@
-package com.zdya.plugins.mybatis;
+package com.cnsecloud.plugins.mybatis;
 
 import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
 

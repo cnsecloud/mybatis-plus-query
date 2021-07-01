@@ -1,10 +1,10 @@
-package com.zdya.plugins.mybatis;
+package com.cnsecloud.plugins.mybatis;
 
 import com.baomidou.mybatisplus.core.conditions.interfaces.Compare;
 import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
 import com.baomidou.mybatisplus.core.toolkit.support.ColumnCache;
-import com.zdya.plugins.mybatis.annotation.Query;
-import com.zdya.plugins.mybatis.util.Utils;
+import com.cnsecloud.plugins.mybatis.util.Utils;
+import com.cnsecloud.plugins.mybatis.annotation.Query;
 
 import java.lang.reflect.Field;
 import java.util.*;
